@@ -1,0 +1,64 @@
+@charset "UTF8";
+
+body {
+    background-color: black; 
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+}
+
+h1 {    
+    color: darkmagenta;
+    font-size: 2em;
+    text-align: center;
+}
+
+h2 {
+    color: antiquewhite;
+    font-size: 1em;
+    text-align: center;
+}
+
+h3 {  
+    color: chocolate;    
+    text-align: justify;
+}
+
+h4 {
+    color: chartreuse;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+p {    
+    text-align: justify;    
+}
+
+ul {
+    color: antiquewhite;    
+    text-align: justify;
+}
+
+a {
+    color: darkmagenta;
+    text-align: justify;
+    text-decoration: none;    
+}
+
+a:active {
+    color: chartreuse;
+}
+
+a:hover {
+    color:chartreuse;
+}
+
+footer {
+    color: darkmagenta;
+    text-align: center;
+}
